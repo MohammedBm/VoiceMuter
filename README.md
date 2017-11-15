@@ -3,6 +3,12 @@
 ### What is it about?
 Simply mute unexpected noises from anything like loud video advertisements to annoying websites plugins.
 
+### How to Use
+To use this extension simply clone or download this repo. After doing that you can open your chrome extenstion page and drag this file to chrome, and it will install automatically.
+
+### To Dos
+ - Make the code shorter
+ - Add more documentation 
 
 
 
